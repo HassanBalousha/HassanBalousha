@@ -73,10 +73,7 @@ https://istoria.app/
   
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=HassanBalousha&&style=flat-square)  
-  
-
+ 
 <br/>  
 
 
