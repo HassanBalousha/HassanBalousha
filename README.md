@@ -21,12 +21,12 @@ An experienced mobile app developer (Flutter) who has a track record of success 
 <br/>  
 
 
-## Rapidfire  
+ 
 - 🔭 I’m currently working on app product (iStoria app)
 https://istoria.app/  
   
 
-- 🌱 I’m currently learning laravel  
+- 🌱 I’m currently learning backend  
   
 
 - ❓ Ask me about anything related to Flutter and related technologies  
